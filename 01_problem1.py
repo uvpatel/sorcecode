@@ -1,4 +1,5 @@
-name = input("Enter your name: ")
+num_a = float(input("Enter first number: "))
+num_b = float(input("Enter second number: "))
 
-print(name)
-print("Good after noon")
+sum = num_a + num_b
+print(sum)

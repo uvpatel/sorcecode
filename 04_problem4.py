@@ -1,3 +1,5 @@
-letter = "Dear Harry,\n this python course is nice.\n Thanks!"
+a = 34
 
-print(letter)
+b = 80
+
+print(a>b)
